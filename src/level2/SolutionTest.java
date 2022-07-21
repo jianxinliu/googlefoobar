@@ -1,8 +1,5 @@
 package level2;
 
-import java.util.Arrays;
-import java.util.stream.Collectors;
-
 class SolutionTest {
     public static void main(String[] args) {
         // 1.0,1.0.2,1.0.12,1.1.2,1.3.3
